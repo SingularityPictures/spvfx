@@ -17,10 +17,10 @@
         "display1Size": "3.8",
         "display2Font": "Open Sans",
         "display2Size": 3,
-        "display5Font": "Comfortaa",
-        "display5Size": "1",
+        "display5Font": "Quicksand",
+        "display5Size": 1.5,
         "display7Font": "Quicksand",
-        "display7Size": "1",
+        "display7Size": 1,
         "display4Font": "Noto Sans",
         "display4Size": "1.1",
         "isRoundedButtons": true,
@@ -75,21 +75,6 @@
         "css": "'Noto Sans', sans-serif",
         "name": "Noto Sans",
         "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i"
-      },
-      {
-        "css": "'Roboto Mono', monospace",
-        "name": "Roboto Mono",
-        "url": "https://fonts.googleapis.com/css?family=Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i"
-      },
-      {
-        "css": "'Dancing Script', handwriting",
-        "name": "Dancing Script",
-        "url": "https://fonts.googleapis.com/css?family=Dancing+Script:400,700"
-      },
-      {
-        "css": "'Comfortaa', display",
-        "name": "Comfortaa",
-        "url": "https://fonts.googleapis.com/css?family=Comfortaa:300,400,700"
       }
     ],
     "favicon": "",
@@ -97,8 +82,8 @@
     "uniqCompNum": 62,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "cookiesAlert": "",
+    "gdpr": "",
     "google-analytics": ""
   },
   "pages": {
@@ -776,10 +761,10 @@
                 "showTitle": true,
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/290151116",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<a href=\"index.html\">Singularity Pictures</a>",
+                "title": "<i>Singularity Pictures</i>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -796,10 +781,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "RISE INI KALILAH",
+                "title": "<i>RISE INI KALILAH</i>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "inspired by a historical event",
+                "text": "<i>inspired by a historical event</i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -813,10 +798,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Detective Dee:",
+                "title": "<i>Detective Dee:</i>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "The Four Heavenly Kings",
+                "text": "<i>The Four Heavenly Kings</i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -3166,25 +3151,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a1403s1295201496680553.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a1403s1295201496680553-590x826.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paskal-main-poster1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paskal-main-poster1-800x1172.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Sleep Curse",
-                "active": false
-              },
-              {
-                "tags": "Movie",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dip-rmpvwaa7w01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dip-rmpvwaa7w01-800x1172.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Before We Forget",
+                "caption": "Paskal<br>",
                 "active": false
               },
               {
@@ -3211,7 +3183,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Detective Dee: The Four Heavenly Kings",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Movie",
@@ -3225,6 +3197,84 @@
                 "customStyle1": "display-7",
                 "caption": "Infini T Force Movie",
                 "active": false
+              },
+              {
+                "tags": "Movie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/a1403s1295201496680553.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a1403s1295201496680553-590x826.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Sleep Curse",
+                "active": false
+              },
+              {
+                "tags": "Movie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/shun-pong-o-04-e1524223275819.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shun-pong-o-04-e1524223275819-800x1122.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Shun Phong O<br>",
+                "active": false
+              },
+              {
+                "tags": "Movie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dip-rmpvwaa7w01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dip-rmpvwaa7w01-800x1172.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Before We Forget",
+                "active": false
+              },
+              {
+                "tags": "Game Cinematic",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/the-king-of-fighters-allstar-cg-commercial-full-version-best-anime-arpg-720p-30fps-h264-192kbit-aac.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-king-of-fighters-allstar-cg-commercial-full-version-best-anime-arpg-720p-30fps-h264-192kbit-aac-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "KOF",
+                "active": false
+              },
+              {
+                "tags": "TV",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/005p48fely1fsys7vvm56j32ma3tau10.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/005p48fely1fsys7vvm56j32ma3tau10-800x1165.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "ShaHai<br>",
+                "active": false
+              },
+              {
+                "tags": "Movie",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170928114106947824.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170928114106947824-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Dragon Blade<br>",
+                "active": true
               }
             ]
           }
